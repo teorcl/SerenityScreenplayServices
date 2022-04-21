@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Obtener los usuarios de la api reqres.in" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-21T17:18:05" hostname="MacBook-Pro-de-Teodoro.local" time="7.905">
+  <properties/>
+  <testcase name="Obteniendo los usuarios" classname="Obtener los usuarios de la api reqres.in" time="7.905"/>
+  <system-out><![CDATA[Lista=================================6
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (co.com.sofka.stepdefinitions.RegisterUserSteps).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

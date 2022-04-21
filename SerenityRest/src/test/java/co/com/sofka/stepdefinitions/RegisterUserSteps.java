@@ -58,6 +58,8 @@ public class RegisterUserSteps extends SetUp {
 
         /*Buscar otra posibilidad de hacer esto*/
         bodyResponse = new BodyResponseQuestion().answeredBy(actor);
+        System.out.println("===================================="+bodyResponse);
+        System.out.println("0000000"+bodyResponse.getName());
 
         /*Como hacer una assertion de todo el body response?*/
         actor.should(

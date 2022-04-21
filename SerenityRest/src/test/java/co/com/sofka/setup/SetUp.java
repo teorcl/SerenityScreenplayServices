@@ -7,7 +7,7 @@ public class SetUp {
 
     protected static final String URL_BASE_REQRES = "https://reqres.in/api";
     protected static final String RESOURCE_POST_CREATE_USER = "/users";
-
+    protected static final String RESOURCE_LIST_USERS = "/users?page=2";
     protected static final String URL_BASE_JSON="https://jsonplaceholder.typicode.com";
     protected static final String RESOURCE_POST_JSON="/posts";
     protected static final String RESOURCE_PUT_JSON="/posts/1";
